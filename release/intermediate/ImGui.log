@@ -1,0 +1,73 @@
+﻿  main.cpp
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57679,1): message : voir la définition précédente de 'DXGI_STATUS_OCCLUDED'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57688,1): message : voir la définition précédente de 'DXGI_STATUS_CLIPPED'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57697,1): message : voir la définition précédente de 'DXGI_STATUS_NO_REDIRECTION'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57706,1): message : voir la définition précédente de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57715,1): message : voir la définition précédente de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57724,1): message : voir la définition précédente de 'DXGI_STATUS_MODE_CHANGED'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57733,1): message : voir la définition précédente de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57748,1): message : voir la définition précédente de 'DXGI_ERROR_INVALID_CALL'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57757,1): message : voir la définition précédente de 'DXGI_ERROR_NOT_FOUND'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57766,1): message : voir la définition précédente de 'DXGI_ERROR_MORE_DATA'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57775,1): message : voir la définition précédente de 'DXGI_ERROR_UNSUPPORTED'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57784,1): message : voir la définition précédente de 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57793,1): message : voir la définition précédente de 'DXGI_ERROR_DEVICE_HUNG'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57803,1): message : voir la définition précédente de 'DXGI_ERROR_DEVICE_RESET'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57812,1): message : voir la définition précédente de 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57822,1): message : voir la définition précédente de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57831,1): message : voir la définition précédente de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57841,1): message : voir la définition précédente de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57850,1): message : voir la définition précédente de 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57859,1): message : voir la définition précédente de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57869,1): message : voir la définition précédente de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57878,1): message : voir la définition précédente de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58170,1): message : voir la définition précédente de 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58179,1): message : voir la définition précédente de 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58189,1): message : voir la définition précédente de 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58198,1): message : voir la définition précédente de 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58146,1): message : voir la définition précédente de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\s\Desktop\ImGui\ImGui\dxsdk\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58155,1): message : voir la définition précédente de 'D3D10_ERROR_FILE_NOT_FOUND'
+C:\Users\s\Desktop\ImGui\ImGui\main.hpp(69,117): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.hpp(69,104): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.hpp(69,68): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.hpp(69,34): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.cpp(22,242): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.cpp(22,229): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.cpp(22,199): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.cpp(22,142): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\s\Desktop\ImGui\ImGui\main.cpp(185,87): warning C4305: 'argument' : troncation de 'ImGuiWindowFlags_' à 'bool'
+C:\Users\s\Desktop\ImGui\ImGui\main.cpp(30,11): warning C4101: 'mouse' : variable locale non référencée
+  Génération de code en cours
+  3 of 1308 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  ImGui.vcxproj -> C:\Users\s\Desktop\ImGui\release\ImGui.exe
